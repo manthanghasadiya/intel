@@ -1,0 +1,14 @@
+# Test/scratch artifacts
+*.ogg
+*-test.*
+*-final.*
+*-message.txt
+tmp/
+temp/
+
+# Editor / OS
+.DS_Store
+*.swp
+
+# Hermes internals (never commit these)
+.hermes/
